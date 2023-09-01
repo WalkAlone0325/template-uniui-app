@@ -1,0 +1,21 @@
+@font-face {
+  font-family: "iconfont";
+  /* Project id 2878519 */
+  src: url('/static/icons/iconfont.ttf') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+}
+
+.youxi:before {
+  content: "\e60e";
+}
+
+.wenjian:before {
+  content: "\e60f";
+}
+
+.zhuanfa:before {
+  content: "\e610";
+}
